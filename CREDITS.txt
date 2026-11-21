@@ -1,0 +1,28 @@
+ONE MORE TRY — CREDITS
+
+Visual art and sound effects: Kenney, New Platformer Pack (1.0)
+https://opengameart.org/content/new-platformer-pack
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+  player.png — character_yellow_idle.png
+  ledge.png — terrain_grass_horizontal_middle.png
+  well.png — terrain_stone_horizontal_middle.png
+  spring.png — spring_out.png
+  exit.png — flag_yellow_a.png
+  backdrop.png — background_fade_trees.png
+  jump.wav — sfx_jump.ogg
+  fall.wav — sfx_hurt.ogg
+  spring.wav — sfx_jump-high.ogg
+  win.wav — sfx_gem.ogg
+
+Music: Kistol, Forget Me Not (looped version)
+https://opengameart.org/content/forget-me-not
+License: CC0 1.0 Universal
+
+The art files are the original PNGs from the pack. Godot positions, scales,
+repeats, and tints them in the game. The four effects were converted to WAV.
+
+Game engine: Godot 4.5.1
+https://godotengine.org/license/
+See GODOT-LICENSE.txt for the engine license and copyright notice.
